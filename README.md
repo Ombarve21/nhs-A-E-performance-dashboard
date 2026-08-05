@@ -6,8 +6,6 @@ performance from 2021 to 2024, tracking attendances, admissions, and
 performance against the national four-hour A&E standard across trusts and
 regions.
 
-![Overview](images/overview_page.png)
-
 ## Project Overview
 
 England's A&E departments are measured against a national standard: 95% of
