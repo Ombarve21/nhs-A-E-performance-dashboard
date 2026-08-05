@@ -1,5 +1,4 @@
 # NHS A&E performance dashboard
-NHS A&amp;E performance analysis and Power BI dashboard using Power Query and DAX.
 
 An interactive Power BI dashboard analysing NHS England Accident & Emergency
 performance from 2021 to 2024, tracking attendances, admissions, and
