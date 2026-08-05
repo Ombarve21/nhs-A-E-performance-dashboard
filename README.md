@@ -24,21 +24,21 @@ admissions have changed over time.
 
 ## Dashboard Pages
 
-**1. A&E Overview** — headline KPIs (attendances, % seen in four hours, % seen
+**1. A&E Overview** - headline KPIs (attendances, % seen in four hours, % seen
 after four hours, emergency admissions), attendance trend, four-hour
 performance by department type, and provider rankings.
 
-**2. Emergency Admissions** — admissions trend, department-type breakdown, and
+**2. Emergency Admissions** - admissions trend, department-type breakdown, and
 admissions by provider.
 
 ## Tools & Techniques
 
-- **Power BI** — data model, report design, interactivity
-- **Power Query** — data cleaning and transformation: flattening multi-row
+- **Power BI** - data model, report design, interactivity
+- **Power Query** - data cleaning and transformation: flattening multi-row
   headers, unpivoting department-type columns, handling part-year data
-- **DAX** — measures for four-hour compliance %, year-over-year change, and a
+- **DAX** - measures for four-hour compliance %, year-over-year change, and a
   dynamic KPI toggle
-- **Data modelling** — star schema with a dedicated date dimension
+- **Data modelling** - star schema with a dedicated date dimension
 
 ## Data Cleaning Notes
 
