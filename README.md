@@ -57,6 +57,6 @@ published under the Open Government Licence.
 
 ## Author
 
-Om Barve — MSc Data Science, University of Sheffield
+Om Barve - MSc Data Science, University of Sheffield
 [LinkedIn](https://www.linkedin.com/in/contactombarve) ·
 [GitHub](https://github.com/Ombarve21)
